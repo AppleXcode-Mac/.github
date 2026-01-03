@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://cdn.jim-nielsen.com/macos/512/xcode-2020-11-11.png?rf=1024" width="200" alt="Apple Xcode macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/AppleXcode">
+ <a href="https://gnomik-gomik-apps.github.io/.github/AppleXcode">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Apple Xcode macOS page">
  </a><br><br>
  <div align="center">
